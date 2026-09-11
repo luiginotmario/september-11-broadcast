@@ -1,0 +1,156 @@
+[
+  {
+    "id": "CNN_20010911_110000_CNN_Live_at_Daybreak",
+    "title": "CNN Live at Daybreak : CNN : September 11, 2001 7:00am-9:00am EDT",
+    "start": "2001-09-11 07:00:00",
+    "utcStart": "2001-09-11 11:00:00",
+    "utcEnd": "2001-09-11 13:00:00",
+    "duration": 7200.4,
+    "url": "https://archive.org/download/CNN_20010911_110000_CNN_Live_at_Daybreak/CNN_20010911_110000_CNN_Live_at_Daybreak.mp4",
+    "source": "https://archive.org/details/CNN_20010911_110000_CNN_Live_at_Daybreak",
+    "offset": 6480
+  },
+  {
+    "id": "CNN_20010911_130000_CNN_Live_This_Morning",
+    "title": "CNN Live This Morning : CNN : September 11, 2001 9:00am-11:59am EDT",
+    "start": "2001-09-11 09:00:00",
+    "utcStart": "2001-09-11 13:00:00",
+    "utcEnd": "2001-09-11 15:59:58",
+    "duration": 10797.76,
+    "url": "https://archive.org/download/CNN_20010911_130000_CNN_Live_This_Morning/CNN_20010911_130000_CNN_Live_This_Morning.mp4",
+    "source": "https://archive.org/details/CNN_20010911_130000_CNN_Live_This_Morning",
+    "offset": 0
+  },
+  {
+    "id": "CNN_20010911_160000_CNN_Live_Today",
+    "title": "CNN Live Today : CNN : September 11, 2001 12:00pm-12:30pm EDT",
+    "start": "2001-09-11 12:00:00",
+    "utcStart": "2001-09-11 16:00:00",
+    "utcEnd": "2001-09-11 16:30:02",
+    "duration": 1802.23,
+    "url": "https://archive.org/download/CNN_20010911_160000_CNN_Live_Today/CNN_20010911_160000_CNN_Live_Today.mp4",
+    "source": "https://archive.org/details/CNN_20010911_160000_CNN_Live_Today",
+    "offset": 0
+  },
+  {
+    "id": "CNN_20010911_163000_Burden_of_Proof",
+    "title": "Burden of Proof : CNN : September 11, 2001 12:30pm-1:00pm EDT",
+    "start": "2001-09-11 12:30:00",
+    "utcStart": "2001-09-11 16:30:00",
+    "utcEnd": "2001-09-11 17:00:01",
+    "duration": 1801.3,
+    "url": "https://archive.org/download/CNN_20010911_163000_Burden_of_Proof/CNN_20010911_163000_Burden_of_Proof.mp4",
+    "source": "https://archive.org/details/CNN_20010911_163000_Burden_of_Proof",
+    "offset": 0
+  },
+  {
+    "id": "CNN_20010911_170000_CNN_Live_Today",
+    "title": "CNN Live Today : CNN : September 11, 2001 1:00pm-2:59pm EDT",
+    "start": "2001-09-11 13:00:00",
+    "utcStart": "2001-09-11 17:00:00",
+    "utcEnd": "2001-09-11 18:59:58",
+    "duration": 7198.29,
+    "url": "https://archive.org/download/CNN_20010911_170000_CNN_Live_Today/CNN_20010911_170000_CNN_Live_Today.mp4",
+    "source": "https://archive.org/details/CNN_20010911_170000_CNN_Live_Today",
+    "offset": 0
+  },
+  {
+    "id": "CNN_20010911_190000_TalkBack_Live",
+    "title": "TalkBack Live : CNN : September 11, 2001 3:00pm-4:00pm EDT",
+    "start": "2001-09-11 15:00:00",
+    "utcStart": "2001-09-11 19:00:00",
+    "utcEnd": "2001-09-11 20:00:01",
+    "duration": 3601.0,
+    "url": "https://archive.org/download/CNN_20010911_190000_TalkBack_Live/CNN_20010911_190000_TalkBack_Live.mp4",
+    "source": "https://archive.org/details/CNN_20010911_190000_TalkBack_Live",
+    "offset": 0
+  },
+  {
+    "id": "CNN_20010911_200000_CNN_NewsSite",
+    "title": "CNN NewsSite : CNN : September 11, 2001 4:00pm-5:00pm EDT",
+    "start": "2001-09-11 16:00:00",
+    "utcStart": "2001-09-11 20:00:00",
+    "utcEnd": "2001-09-11 21:00:02",
+    "duration": 3601.86,
+    "url": "https://archive.org/download/CNN_20010911_200000_CNN_NewsSite/CNN_20010911_200000_CNN_NewsSite.mp4",
+    "source": "https://archive.org/details/CNN_20010911_200000_CNN_NewsSite",
+    "offset": 0
+  },
+  {
+    "id": "CNN_20010911_210000_Inside_Politics",
+    "title": "Inside Politics : CNN : September 11, 2001 5:00pm-5:59pm EDT",
+    "start": "2001-09-11 17:00:00",
+    "utcStart": "2001-09-11 21:00:00",
+    "utcEnd": "2001-09-11 21:59:56",
+    "duration": 3596.46,
+    "url": "https://archive.org/download/CNN_20010911_210000_Inside_Politics/CNN_20010911_210000_Inside_Politics.mp4",
+    "source": "https://archive.org/details/CNN_20010911_210000_Inside_Politics",
+    "offset": 0
+  },
+  {
+    "id": "CNN_20010911_220000_Lou_Dobbs_Moneyline",
+    "title": "Lou Dobbs Moneyline : CNN : September 11, 2001 6:00pm-7:00pm EDT",
+    "start": "2001-09-11 18:00:00",
+    "utcStart": "2001-09-11 22:00:00",
+    "utcEnd": "2001-09-11 23:00:02",
+    "duration": 3602.16,
+    "url": "https://archive.org/download/CNN_20010911_220000_Lou_Dobbs_Moneyline/CNN_20010911_220000_Lou_Dobbs_Moneyline.mp4",
+    "source": "https://archive.org/details/CNN_20010911_220000_Lou_Dobbs_Moneyline",
+    "offset": 0
+  },
+  {
+    "id": "CNN_20010911_230000_First_Evening_News",
+    "title": "First Evening News : CNN : September 11, 2001 7:00pm-7:30pm EDT",
+    "start": "2001-09-11 19:00:00",
+    "utcStart": "2001-09-11 23:00:00",
+    "utcEnd": "2001-09-11 23:30:01",
+    "duration": 1801.5,
+    "url": "https://archive.org/download/CNN_20010911_230000_First_Evening_News/CNN_20010911_230000_First_Evening_News.mp4",
+    "source": "https://archive.org/details/CNN_20010911_230000_First_Evening_News",
+    "offset": 0
+  },
+  {
+    "id": "CNN_20010911_233000_Crossfire",
+    "title": "Crossfire : CNN : September 11, 2001 7:30pm-8:00pm EDT",
+    "start": "2001-09-11 19:30:00",
+    "utcStart": "2001-09-11 23:30:00",
+    "utcEnd": "2001-09-12 00:00:04",
+    "duration": 1803.77,
+    "url": "https://archive.org/download/CNN_20010911_233000_Crossfire/CNN_20010911_233000_Crossfire.mp4",
+    "source": "https://archive.org/details/CNN_20010911_233000_Crossfire",
+    "offset": 0
+  },
+  {
+    "id": "CNN_20010912_000000_Wolf_Blitzer_Reports",
+    "title": "Wolf Blitzer Reports : CNN : September 11, 2001 8:00pm-8:29pm EDT",
+    "start": "2001-09-11 20:00:00",
+    "utcStart": "2001-09-12 00:00:00",
+    "utcEnd": "2001-09-12 00:29:58",
+    "duration": 1797.79,
+    "url": "https://archive.org/download/CNN_20010912_000000_Wolf_Blitzer_Reports/CNN_20010912_000000_Wolf_Blitzer_Reports.mp4",
+    "source": "https://archive.org/details/CNN_20010912_000000_Wolf_Blitzer_Reports",
+    "offset": 0
+  },
+  {
+    "id": "CNN_20010912_003000_The_Point_With_Greta_Van_Susteren",
+    "title": "The Point With Greta Van Susteren : CNN : September 11, 2001 8:30pm-8:59pm EDT",
+    "start": "2001-09-11 20:30:00",
+    "utcStart": "2001-09-12 00:30:00",
+    "utcEnd": "2001-09-12 00:59:59",
+    "duration": 1798.61,
+    "url": "https://archive.org/download/CNN_20010912_003000_The_Point_With_Greta_Van_Susteren/CNN_20010912_003000_The_Point_With_Greta_Van_Susteren.mp4",
+    "source": "https://archive.org/details/CNN_20010912_003000_The_Point_With_Greta_Van_Susteren",
+    "offset": 0
+  },
+  {
+    "id": "CNN_20010912_010000_America_Under_Attack",
+    "title": "America Under Attack : CNN : September 11, 2001 9:00pm-12:00am EDT",
+    "start": "2001-09-11 21:00:00",
+    "utcStart": "2001-09-12 01:00:00",
+    "utcEnd": "2001-09-12 04:00:05",
+    "duration": 10805.03,
+    "url": "https://archive.org/download/CNN_20010912_010000_America_Under_Attack/CNN_20010912_010000_America_Under_Attack.mp4",
+    "source": "https://archive.org/details/CNN_20010912_010000_America_Under_Attack",
+    "offset": 0
+  }
+]

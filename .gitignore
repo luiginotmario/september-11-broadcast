@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+production/jobs.json
+production/catalog.json
+.sites-runtime/
+__pycache__/
+production/heygen-pilot/
