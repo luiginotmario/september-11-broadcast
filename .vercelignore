@@ -1,0 +1,7 @@
+.env
+.env.*
+.openai
+production
+scripts
+tests
+.git

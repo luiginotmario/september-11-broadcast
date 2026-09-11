@@ -1,0 +1,137 @@
+[
+  {
+    "time": "08:49",
+    "tag": "BREAKING NEWS",
+    "title": "Reports of a fire at the World Trade Center",
+    "place": "Lower Manhattan, New York",
+    "text": "We interrupt our programming for a developing story in New York. Smoke is rising from one of the towers of the World Trade Center. There are early reports of an aircraft striking the building. Details are still emerging. We do not yet have a confirmed account of what happened.",
+    "source": "https://transcripts.cnn.com/show/bn/date/2001-09-11/segment/01",
+    "id": "bulletin-01",
+    "editorial_status": "timing_review_required",
+    "timing_note": "Approximate prototype bulletin time; verify against timestamped broadcast before rendering.",
+    "sources": [
+      "https://transcripts.cnn.com/show/bn/date/2001-09-11/segment/01"
+    ]
+  },
+  {
+    "time": "09:03",
+    "tag": "BREAKING NEWS",
+    "title": "A second plane strikes the towers",
+    "place": "World Trade Center, New York",
+    "text": "A second aircraft has struck the other tower of the World Trade Center. Both buildings are now burning. What began as a report of a single incident has changed dramatically. Emergency crews are responding in lower Manhattan. The full scale of what is happening is not yet clear.",
+    "id": "bulletin-02",
+    "editorial_status": "timing_review_required",
+    "timing_note": "Approximate prototype bulletin time; verify against timestamped broadcast before rendering.",
+    "sources": []
+  },
+  {
+    "time": "09:30",
+    "tag": "PRESIDENTIAL STATEMENT",
+    "title": "President calls apparent terrorist attack",
+    "place": "Sarasota, Florida",
+    "text": "President Bush has addressed the events in New York from Florida, describing an apparent terrorist attack. The president says he will return to Washington. Attention remains on the rescue response at the World Trade Center.",
+    "id": "bulletin-03",
+    "editorial_status": "timing_review_required",
+    "timing_note": "Approximate prototype bulletin time; verify against timestamped broadcast before rendering.",
+    "sources": []
+  },
+  {
+    "time": "09:40",
+    "tag": "DEVELOPING STORY",
+    "title": "Reports of an incident at the Pentagon",
+    "place": "Arlington, Virginia",
+    "text": "We are now following reports of an incident at the Pentagon, outside Washington. Smoke is visible at the building. This is a developing report; the details are not yet clear. Coverage is now focused on both New York and Washington.",
+    "id": "bulletin-04",
+    "editorial_status": "timing_review_required",
+    "timing_note": "Approximate prototype bulletin time; verify against timestamped broadcast before rendering.",
+    "sources": []
+  },
+  {
+    "time": "09:50",
+    "tag": "NATIONAL EMERGENCY",
+    "title": "Aircraft ordered to land nationwide",
+    "place": "United States",
+    "text": "The Federal Aviation Administration has ordered civilian aircraft in United States airspace to land. It is an extraordinary nationwide response. The situation continues to develop as emergency workers respond in New York and at the Pentagon.",
+    "id": "bulletin-05",
+    "editorial_status": "timing_review_required",
+    "timing_note": "Approximate prototype bulletin time; verify against timestamped broadcast before rendering.",
+    "sources": []
+  },
+  {
+    "time": "09:59",
+    "tag": "BREAKING NEWS",
+    "title": "South Tower collapses",
+    "place": "World Trade Center, New York",
+    "text": "The South Tower of the World Trade Center has collapsed. A vast cloud of dust is spreading through lower Manhattan. We cannot yet give a reliable account of how many people were still inside. This is an unfolding catastrophe.",
+    "id": "bulletin-06",
+    "editorial_status": "timing_review_required",
+    "timing_note": "Approximate prototype bulletin time; verify against timestamped broadcast before rendering.",
+    "sources": []
+  },
+  {
+    "time": "10:28",
+    "tag": "BREAKING NEWS",
+    "title": "North Tower collapses",
+    "place": "World Trade Center, New York",
+    "text": "The remaining tower has now collapsed. Both towers of the World Trade Center are gone. Dust and debris have engulfed the surrounding streets. The immediate focus is on those trying to escape and the emergency workers attempting to reach them.",
+    "id": "bulletin-07",
+    "editorial_status": "timing_review_required",
+    "timing_note": "Approximate prototype bulletin time; verify against timestamped broadcast before rendering.",
+    "sources": []
+  },
+  {
+    "time": "11:00",
+    "tag": "DEVELOPING STORY",
+    "title": "Plane crash reported in Pennsylvania",
+    "place": "Somerset County, Pennsylvania",
+    "text": "A passenger plane crash is now being reported in western Pennsylvania, near Shanksville. This is another developing part of the story. The circumstances and the experiences of those aboard are not yet known to the public.",
+    "id": "bulletin-08",
+    "editorial_status": "timing_review_required",
+    "timing_note": "Approximate prototype bulletin time; verify against timestamped broadcast before rendering.",
+    "sources": []
+  },
+  {
+    "time": "12:00",
+    "tag": "CONTINUING COVERAGE",
+    "title": "Rescue efforts continue",
+    "place": "New York • Washington • Pennsylvania",
+    "text": "It is noon in the East. Rescue operations continue at the World Trade Center and the Pentagon, while authorities respond to the crash in Pennsylvania. Families are seeking news of loved ones. The number of people lost remains uncertain.",
+    "id": "bulletin-09",
+    "editorial_status": "timing_review_required",
+    "timing_note": "Approximate prototype bulletin time; verify against timestamped broadcast before rendering.",
+    "sources": []
+  },
+  {
+    "time": "13:04",
+    "tag": "PRESIDENTIAL STATEMENT",
+    "title": "President addresses the nation again",
+    "place": "Barksdale Air Force Base, Louisiana",
+    "text": "President Bush has delivered another statement, this time from Louisiana. He says the government is responding and that those responsible will be pursued. Rescue work continues, and the nation is still trying to understand the scale of the attacks.",
+    "id": "bulletin-10",
+    "editorial_status": "timing_review_required",
+    "timing_note": "Approximate prototype bulletin time; verify against timestamped broadcast before rendering.",
+    "sources": []
+  },
+  {
+    "time": "17:20",
+    "tag": "BREAKING NEWS",
+    "title": "7 World Trade Center collapses",
+    "place": "Lower Manhattan, New York",
+    "text": "A further building in the World Trade Center complex, Seven World Trade Center, has collapsed after burning for hours. The building had been evacuated. The rescue effort in lower Manhattan continues into the evening.",
+    "id": "bulletin-11",
+    "editorial_status": "timing_review_required",
+    "timing_note": "Approximate prototype bulletin time; verify against timestamped broadcast before rendering.",
+    "sources": []
+  },
+  {
+    "time": "20:30",
+    "tag": "ADDRESS TO THE NATION",
+    "title": "A nation hears from its president",
+    "place": "The White House, Washington",
+    "text": "President Bush has addressed the nation from the White House. He has spoken of the lives taken, the emergency response, and the search for those responsible. In New York and Washington, rescue crews continue their work. For countless families, the wait for news goes on.",
+    "id": "bulletin-12",
+    "editorial_status": "timing_review_required",
+    "timing_note": "Approximate prototype bulletin time; verify against timestamped broadcast before rendering.",
+    "sources": []
+  }
+]

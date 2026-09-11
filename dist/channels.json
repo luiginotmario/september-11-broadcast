@@ -1,0 +1,1204 @@
+[
+  {
+    "id": "bbc",
+    "country": "United Kingdom",
+    "name": "BBC World",
+    "language": "English",
+    "recordings": [
+      {
+        "id": "BBC_20010911_124500_Sport_Today",
+        "title": "Sport Today : BBC : September 11, 2001 1:45pm-2:00pm BST",
+        "start": "2001-09-11 08:45:00",
+        "utcStart": "2001-09-11 12:45:00",
+        "duration": 899.73,
+        "offset": 180.0,
+        "url": "https://archive.org/download/BBC_20010911_124500_Sport_Today/BBC_20010911_124500_Sport_Today.mp4",
+        "source": "https://archive.org/details/BBC_20010911_124500_Sport_Today"
+      },
+      {
+        "id": "BBC_20010911_130000_BBC_World_News",
+        "title": "BBC World News : BBC : September 11, 2001 2:00pm-2:29pm BST",
+        "start": "2001-09-11 09:00:00",
+        "utcStart": "2001-09-11 13:00:00",
+        "duration": 1796.59,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_130000_BBC_World_News/BBC_20010911_130000_BBC_World_News.mp4",
+        "source": "https://archive.org/details/BBC_20010911_130000_BBC_World_News"
+      },
+      {
+        "id": "BBC_20010911_133000_Holiday",
+        "title": "Holiday : BBC : September 11, 2001 2:30pm-3:00pm BST",
+        "start": "2001-09-11 09:30:00",
+        "utcStart": "2001-09-11 13:30:00",
+        "duration": 1801.63,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_133000_Holiday/BBC_20010911_133000_Holiday.mp4",
+        "source": "https://archive.org/details/BBC_20010911_133000_Holiday"
+      },
+      {
+        "id": "BBC_20010911_140000_BBC_World_News",
+        "title": "BBC World News : BBC : September 11, 2001 3:00pm-3:30pm BST",
+        "start": "2001-09-11 10:00:00",
+        "utcStart": "2001-09-11 14:00:00",
+        "duration": 1800.26,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_140000_BBC_World_News/BBC_20010911_140000_BBC_World_News.mp4",
+        "source": "https://archive.org/details/BBC_20010911_140000_BBC_World_News"
+      },
+      {
+        "id": "BBC_20010911_143000_Question_of_Peace",
+        "title": "Question of Peace : BBC : September 11, 2001 3:30pm-3:59pm BST",
+        "start": "2001-09-11 10:30:00",
+        "utcStart": "2001-09-11 14:30:00",
+        "duration": 1798.29,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_143000_Question_of_Peace/BBC_20010911_143000_Question_of_Peace.mp4",
+        "source": "https://archive.org/details/BBC_20010911_143000_Question_of_Peace"
+      },
+      {
+        "id": "BBC_20010911_150000_BBC_World_News",
+        "title": "BBC World News : BBC : September 11, 2001 4:00pm-4:30pm BST",
+        "start": "2001-09-11 11:00:00",
+        "utcStart": "2001-09-11 15:00:00",
+        "duration": 1810.71,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_150000_BBC_World_News/BBC_20010911_150000_BBC_World_News.mp4",
+        "source": "https://archive.org/details/BBC_20010911_150000_BBC_World_News"
+      },
+      {
+        "id": "BBC_20010911_153000_Asia_Today",
+        "title": "Asia Today : BBC : September 11, 2001 4:30pm-4:59pm BST",
+        "start": "2001-09-11 11:30:00",
+        "utcStart": "2001-09-11 15:30:00",
+        "duration": 1796.93,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_153000_Asia_Today/BBC_20010911_153000_Asia_Today.mp4",
+        "source": "https://archive.org/details/BBC_20010911_153000_Asia_Today"
+      },
+      {
+        "id": "BBC_20010911_160000_BBC_World_News",
+        "title": "BBC World News : BBC : September 11, 2001 5:00pm-5:14pm BST",
+        "start": "2001-09-11 12:00:00",
+        "utcStart": "2001-09-11 16:00:00",
+        "duration": 897.33,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_160000_BBC_World_News/BBC_20010911_160000_BBC_World_News.mp4",
+        "source": "https://archive.org/details/BBC_20010911_160000_BBC_World_News"
+      },
+      {
+        "id": "BBC_20010911_161500_BBC_World_Business_Report",
+        "title": "BBC World Business Report : BBC : September 11, 2001 5:15pm-5:29pm BST",
+        "start": "2001-09-11 12:15:00",
+        "utcStart": "2001-09-11 16:15:00",
+        "duration": 899.36,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_161500_BBC_World_Business_Report/BBC_20010911_161500_BBC_World_Business_Report.mp4",
+        "source": "https://archive.org/details/BBC_20010911_161500_BBC_World_Business_Report"
+      },
+      {
+        "id": "BBC_20010911_163000_Q.E.D.",
+        "title": "Q.E.D. : BBC : September 11, 2001 5:30pm-6:00pm BST",
+        "start": "2001-09-11 12:30:00",
+        "utcStart": "2001-09-11 16:30:00",
+        "duration": 1803.47,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_163000_Q.E.D./BBC_20010911_163000_Q.E.D..mp4",
+        "source": "https://archive.org/details/BBC_20010911_163000_Q.E.D."
+      },
+      {
+        "id": "BBC_20010911_170000_BBC_World_News",
+        "title": "BBC World News : BBC : September 11, 2001 6:00pm-6:29pm BST",
+        "start": "2001-09-11 13:00:00",
+        "utcStart": "2001-09-11 17:00:00",
+        "duration": 1795.69,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_170000_BBC_World_News/BBC_20010911_170000_BBC_World_News.mp4",
+        "source": "https://archive.org/details/BBC_20010911_170000_BBC_World_News"
+      },
+      {
+        "id": "BBC_20010911_173000_BBC_World_Business_Report",
+        "title": "BBC World Business Report : BBC : September 11, 2001 6:30pm-6:45pm BST",
+        "start": "2001-09-11 13:30:00",
+        "utcStart": "2001-09-11 17:30:00",
+        "duration": 902.56,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_173000_BBC_World_Business_Report/BBC_20010911_173000_BBC_World_Business_Report.mp4",
+        "source": "https://archive.org/details/BBC_20010911_173000_BBC_World_Business_Report"
+      },
+      {
+        "id": "BBC_20010911_174500_Sport_Today",
+        "title": "Sport Today : BBC : September 11, 2001 6:45pm-6:59pm BST",
+        "start": "2001-09-11 13:45:00",
+        "utcStart": "2001-09-11 17:45:00",
+        "duration": 895.26,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_174500_Sport_Today/BBC_20010911_174500_Sport_Today.mp4",
+        "source": "https://archive.org/details/BBC_20010911_174500_Sport_Today"
+      },
+      {
+        "id": "BBC_20010911_180000_BBC_World_News",
+        "title": "BBC World News : BBC : September 11, 2001 7:00pm-7:30pm BST",
+        "start": "2001-09-11 14:00:00",
+        "utcStart": "2001-09-11 18:00:00",
+        "duration": 1800.0,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_180000_BBC_World_News/BBC_20010911_180000_BBC_World_News.mp4",
+        "source": "https://archive.org/details/BBC_20010911_180000_BBC_World_News"
+      },
+      {
+        "id": "BBC_20010911_183000_Question_of_Peace",
+        "title": "Question of Peace : BBC : September 11, 2001 7:30pm-8:00pm BST",
+        "start": "2001-09-11 14:30:00",
+        "utcStart": "2001-09-11 18:30:00",
+        "duration": 1809.97,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_183000_Question_of_Peace/BBC_20010911_183000_Question_of_Peace.mp4",
+        "source": "https://archive.org/details/BBC_20010911_183000_Question_of_Peace"
+      },
+      {
+        "id": "BBC_20010911_190000_BBC_World_News",
+        "title": "BBC World News : BBC : September 11, 2001 8:00pm-8:29pm BST",
+        "start": "2001-09-11 15:00:00",
+        "utcStart": "2001-09-11 19:00:00",
+        "duration": 1799.39,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_190000_BBC_World_News/BBC_20010911_190000_BBC_World_News.mp4",
+        "source": "https://archive.org/details/BBC_20010911_190000_BBC_World_News"
+      },
+      {
+        "id": "BBC_20010911_193000_Talking_Movies",
+        "title": "Talking Movies : BBC : September 11, 2001 8:30pm-9:00pm BST",
+        "start": "2001-09-11 15:30:00",
+        "utcStart": "2001-09-11 19:30:00",
+        "duration": 1800.21,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_193000_Talking_Movies/BBC_20010911_193000_Talking_Movies.mp4",
+        "source": "https://archive.org/details/BBC_20010911_193000_Talking_Movies"
+      },
+      {
+        "id": "BBC_20010911_200000_BBC_World_News",
+        "title": "BBC World News : BBC : September 11, 2001 9:00pm-9:30pm BST",
+        "start": "2001-09-11 16:00:00",
+        "utcStart": "2001-09-11 20:00:00",
+        "duration": 1800.7,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_200000_BBC_World_News/BBC_20010911_200000_BBC_World_News.mp4",
+        "source": "https://archive.org/details/BBC_20010911_200000_BBC_World_News"
+      },
+      {
+        "id": "BBC_20010911_203000_BBC_World_Business_Report",
+        "title": "BBC World Business Report : BBC : September 11, 2001 9:30pm-10:00pm BST",
+        "start": "2001-09-11 16:30:00",
+        "utcStart": "2001-09-11 20:30:00",
+        "duration": 1801.06,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_203000_BBC_World_Business_Report/BBC_20010911_203000_BBC_World_Business_Report.mp4",
+        "source": "https://archive.org/details/BBC_20010911_203000_BBC_World_Business_Report"
+      },
+      {
+        "id": "BBC_20010911_210000_BBC_World_News",
+        "title": "BBC World News : BBC : September 11, 2001 10:00pm-10:29pm BST",
+        "start": "2001-09-11 17:00:00",
+        "utcStart": "2001-09-11 21:00:00",
+        "duration": 1793.36,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_210000_BBC_World_News/BBC_20010911_210000_BBC_World_News.mp4",
+        "source": "https://archive.org/details/BBC_20010911_210000_BBC_World_News"
+      },
+      {
+        "id": "BBC_20010911_213000_Reporters",
+        "title": "Reporters : BBC : September 11, 2001 10:30pm-11:00pm BST",
+        "start": "2001-09-11 17:30:00",
+        "utcStart": "2001-09-11 21:30:00",
+        "duration": 1800.03,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_213000_Reporters/BBC_20010911_213000_Reporters.mp4",
+        "source": "https://archive.org/details/BBC_20010911_213000_Reporters"
+      },
+      {
+        "id": "BBC_20010911_220000_BBC_World_News",
+        "title": "BBC World News : BBC : September 11, 2001 11:00pm-11:30pm BST",
+        "start": "2001-09-11 18:00:00",
+        "utcStart": "2001-09-11 22:00:00",
+        "duration": 1804.4,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_220000_BBC_World_News/BBC_20010911_220000_BBC_World_News.mp4",
+        "source": "https://archive.org/details/BBC_20010911_220000_BBC_World_News"
+      },
+      {
+        "id": "BBC_20010911_223000_BBC_World_Business_Report",
+        "title": "BBC World Business Report : BBC : September 11, 2001 11:30pm-11:44pm BST",
+        "start": "2001-09-11 18:30:00",
+        "utcStart": "2001-09-11 22:30:00",
+        "duration": 897.66,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_223000_BBC_World_Business_Report/BBC_20010911_223000_BBC_World_Business_Report.mp4",
+        "source": "https://archive.org/details/BBC_20010911_223000_BBC_World_Business_Report"
+      },
+      {
+        "id": "BBC_20010911_224500_Asia_Today",
+        "title": "Asia Today : BBC : September 11, 2001 11:45pm-12:00am BST",
+        "start": "2001-09-11 18:45:00",
+        "utcStart": "2001-09-11 22:45:00",
+        "duration": 901.86,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_224500_Asia_Today/BBC_20010911_224500_Asia_Today.mp4",
+        "source": "https://archive.org/details/BBC_20010911_224500_Asia_Today"
+      },
+      {
+        "id": "BBC_20010911_230000_BBC_World_News",
+        "title": "BBC World News : BBC : September 12, 2001 12:00am-12:30am BST",
+        "start": "2001-09-11 19:00:00",
+        "utcStart": "2001-09-11 23:00:00",
+        "duration": 1803.3,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_230000_BBC_World_News/BBC_20010911_230000_BBC_World_News.mp4",
+        "source": "https://archive.org/details/BBC_20010911_230000_BBC_World_News"
+      },
+      {
+        "id": "BBC_20010911_233000_HARDtalk",
+        "title": "HARDtalk : BBC : September 12, 2001 12:30am-12:59am BST",
+        "start": "2001-09-11 19:30:00",
+        "utcStart": "2001-09-11 23:30:00",
+        "duration": 1794.86,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010911_233000_HARDtalk/BBC_20010911_233000_HARDtalk.mp4",
+        "source": "https://archive.org/details/BBC_20010911_233000_HARDtalk"
+      },
+      {
+        "id": "BBC_20010912_000000_BBC_News",
+        "title": "BBC News : BBC : September 12, 2001 1:00am-1:30am BST",
+        "start": "2001-09-11 20:00:00",
+        "utcStart": "2001-09-12 00:00:00",
+        "duration": 1804.87,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010912_000000_BBC_News/BBC_20010912_000000_BBC_News.mp4",
+        "source": "https://archive.org/details/BBC_20010912_000000_BBC_News"
+      },
+      {
+        "id": "BBC_20010912_003000_Q.E.D.",
+        "title": "Q.E.D. : BBC : September 12, 2001 1:30am-1:59am BST",
+        "start": "2001-09-11 20:30:00",
+        "utcStart": "2001-09-12 00:30:00",
+        "duration": 1798.16,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010912_003000_Q.E.D./BBC_20010912_003000_Q.E.D..mp4",
+        "source": "https://archive.org/details/BBC_20010912_003000_Q.E.D."
+      },
+      {
+        "id": "BBC_20010912_010000_BBC_News",
+        "title": "BBC News : BBC : September 12, 2001 2:00am-2:30am BST",
+        "start": "2001-09-11 21:00:00",
+        "utcStart": "2001-09-12 01:00:00",
+        "duration": 1806.27,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010912_010000_BBC_News/BBC_20010912_010000_BBC_News.mp4",
+        "source": "https://archive.org/details/BBC_20010912_010000_BBC_News"
+      },
+      {
+        "id": "BBC_20010912_013000_Question_of_Peace",
+        "title": "Question of Peace : BBC : September 12, 2001 2:30am-3:00am BST",
+        "start": "2001-09-11 21:30:00",
+        "utcStart": "2001-09-12 01:30:00",
+        "duration": 1800.23,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010912_013000_Question_of_Peace/BBC_20010912_013000_Question_of_Peace.mp4",
+        "source": "https://archive.org/details/BBC_20010912_013000_Question_of_Peace"
+      },
+      {
+        "id": "BBC_20010912_020000_BBC_News",
+        "title": "BBC News : BBC : September 12, 2001 3:00am-3:29am BST",
+        "start": "2001-09-11 22:00:00",
+        "utcStart": "2001-09-12 02:00:00",
+        "duration": 1795.42,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010912_020000_BBC_News/BBC_20010912_020000_BBC_News.mp4",
+        "source": "https://archive.org/details/BBC_20010912_020000_BBC_News"
+      },
+      {
+        "id": "BBC_20010912_023000_Asia_Today",
+        "title": "Asia Today : BBC : September 12, 2001 3:30am-3:44am BST",
+        "start": "2001-09-11 22:30:00",
+        "utcStart": "2001-09-12 02:30:00",
+        "duration": 898.39,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010912_023000_Asia_Today/BBC_20010912_023000_Asia_Today.mp4",
+        "source": "https://archive.org/details/BBC_20010912_023000_Asia_Today"
+      },
+      {
+        "id": "BBC_20010912_024500_BBC_World_Business_Report",
+        "title": "BBC World Business Report : BBC : September 12, 2001 3:45am-4:00am BST",
+        "start": "2001-09-11 22:45:00",
+        "utcStart": "2001-09-12 02:45:00",
+        "duration": 901.2,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010912_024500_BBC_World_Business_Report/BBC_20010912_024500_BBC_World_Business_Report.mp4",
+        "source": "https://archive.org/details/BBC_20010912_024500_BBC_World_Business_Report"
+      },
+      {
+        "id": "BBC_20010912_030000_BBC_News",
+        "title": "BBC News : BBC : September 12, 2001 4:00am-4:30am BST",
+        "start": "2001-09-11 23:00:00",
+        "utcStart": "2001-09-12 03:00:00",
+        "duration": 1806.6,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010912_030000_BBC_News/BBC_20010912_030000_BBC_News.mp4",
+        "source": "https://archive.org/details/BBC_20010912_030000_BBC_News"
+      },
+      {
+        "id": "BBC_20010912_033000_HARDtalk",
+        "title": "HARDtalk : BBC : September 12, 2001 4:30am-5:00am BST",
+        "start": "2001-09-11 23:30:00",
+        "utcStart": "2001-09-12 03:30:00",
+        "duration": 1800.0,
+        "offset": 0,
+        "url": "https://archive.org/download/BBC_20010912_033000_HARDtalk/BBC_20010912_033000_HARDtalk.mp4",
+        "source": "https://archive.org/details/BBC_20010912_033000_HARDtalk"
+      }
+    ]
+  },
+  {
+    "id": "nhk",
+    "country": "Japan",
+    "name": "NHK",
+    "language": "Japanese",
+    "recordings": [
+      {
+        "id": "NHK_20010911_123000_Japan",
+        "title": "Japan : NHK : September 11, 2001 9:30pm-10:00pm JST",
+        "start": "2001-09-11 08:30:00",
+        "utcStart": "2001-09-11 12:30:00",
+        "duration": 1800.06,
+        "offset": 1080.0,
+        "url": "https://archive.org/download/NHK_20010911_123000_Japan/NHK_20010911_123000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_123000_Japan"
+      },
+      {
+        "id": "NHK_20010911_130000_Japan",
+        "title": "Japan : NHK : September 11, 2001 10:00pm-10:30pm JST",
+        "start": "2001-09-11 09:00:00",
+        "utcStart": "2001-09-11 13:00:00",
+        "duration": 1800.93,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_130000_Japan/NHK_20010911_130000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_130000_Japan"
+      },
+      {
+        "id": "NHK_20010911_133000_Japan",
+        "title": "Japan : NHK : September 11, 2001 10:30pm-11:00pm JST",
+        "start": "2001-09-11 09:30:00",
+        "utcStart": "2001-09-11 13:30:00",
+        "duration": 1800.1,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_133000_Japan/NHK_20010911_133000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_133000_Japan"
+      },
+      {
+        "id": "NHK_20010911_140000_Japan",
+        "title": "Japan : NHK : September 11, 2001 11:00pm-11:30pm JST",
+        "start": "2001-09-11 10:00:00",
+        "utcStart": "2001-09-11 14:00:00",
+        "duration": 1800.53,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_140000_Japan/NHK_20010911_140000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_140000_Japan"
+      },
+      {
+        "id": "NHK_20010911_143000_Japan",
+        "title": "Japan : NHK : September 11, 2001 11:30pm-12:00am JST",
+        "start": "2001-09-11 10:30:00",
+        "utcStart": "2001-09-11 14:30:00",
+        "duration": 1800.43,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_143000_Japan/NHK_20010911_143000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_143000_Japan"
+      },
+      {
+        "id": "NHK_20010911_150000_Japan",
+        "title": "Japan : NHK : September 12, 2001 12:00am-12:30am JST",
+        "start": "2001-09-11 11:00:00",
+        "utcStart": "2001-09-11 15:00:00",
+        "duration": 1800.66,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_150000_Japan/NHK_20010911_150000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_150000_Japan"
+      },
+      {
+        "id": "NHK_20010911_153000_Japan",
+        "title": "Japan : NHK : September 12, 2001 12:30am-1:00am JST",
+        "start": "2001-09-11 11:30:00",
+        "utcStart": "2001-09-11 15:30:00",
+        "duration": 1800.5,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_153000_Japan/NHK_20010911_153000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_153000_Japan"
+      },
+      {
+        "id": "NHK_20010911_160000_Japan",
+        "title": "Japan : NHK : September 12, 2001 1:00am-1:30am JST",
+        "start": "2001-09-11 12:00:00",
+        "utcStart": "2001-09-11 16:00:00",
+        "duration": 1800.3,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_160000_Japan/NHK_20010911_160000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_160000_Japan"
+      },
+      {
+        "id": "NHK_20010911_163000_Japan",
+        "title": "Japan : NHK : September 12, 2001 1:30am-2:00am JST",
+        "start": "2001-09-11 12:30:00",
+        "utcStart": "2001-09-11 16:30:00",
+        "duration": 1800.56,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_163000_Japan/NHK_20010911_163000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_163000_Japan"
+      },
+      {
+        "id": "NHK_20010911_170000_Japan",
+        "title": "Japan : NHK : September 12, 2001 2:00am-2:30am JST",
+        "start": "2001-09-11 13:00:00",
+        "utcStart": "2001-09-11 17:00:00",
+        "duration": 1800.43,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_170000_Japan/NHK_20010911_170000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_170000_Japan"
+      },
+      {
+        "id": "NHK_20010911_173000_Japan",
+        "title": "Japan : NHK : September 12, 2001 2:30am-3:00am JST",
+        "start": "2001-09-11 13:30:00",
+        "utcStart": "2001-09-11 17:30:00",
+        "duration": 1800.1,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_173000_Japan/NHK_20010911_173000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_173000_Japan"
+      },
+      {
+        "id": "NHK_20010911_180000_Japan",
+        "title": "Japan : NHK : September 12, 2001 3:00am-3:30am JST",
+        "start": "2001-09-11 14:00:00",
+        "utcStart": "2001-09-11 18:00:00",
+        "duration": 1800.4,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_180000_Japan/NHK_20010911_180000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_180000_Japan"
+      },
+      {
+        "id": "NHK_20010911_183000_Japan",
+        "title": "Japan : NHK : September 12, 2001 3:30am-4:00am JST",
+        "start": "2001-09-11 14:30:00",
+        "utcStart": "2001-09-11 18:30:00",
+        "duration": 1800.53,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_183000_Japan/NHK_20010911_183000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_183000_Japan"
+      },
+      {
+        "id": "NHK_20010911_190000_Japan",
+        "title": "Japan : NHK : September 12, 2001 4:00am-4:30am JST",
+        "start": "2001-09-11 15:00:00",
+        "utcStart": "2001-09-11 19:00:00",
+        "duration": 1801.1,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_190000_Japan/NHK_20010911_190000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_190000_Japan"
+      },
+      {
+        "id": "NHK_20010911_193000_Japan",
+        "title": "Japan : NHK : September 12, 2001 4:30am-5:00am JST",
+        "start": "2001-09-11 15:30:00",
+        "utcStart": "2001-09-11 19:30:00",
+        "duration": 1799.47,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_193000_Japan/NHK_20010911_193000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_193000_Japan"
+      },
+      {
+        "id": "NHK_20010911_200000_Japan",
+        "title": "Japan : NHK : September 12, 2001 5:00am-5:30am JST",
+        "start": "2001-09-11 16:00:00",
+        "utcStart": "2001-09-11 20:00:00",
+        "duration": 1800.56,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_200000_Japan/NHK_20010911_200000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_200000_Japan"
+      },
+      {
+        "id": "NHK_20010911_203000_Japan",
+        "title": "Japan : NHK : September 12, 2001 5:30am-6:00am JST",
+        "start": "2001-09-11 16:30:00",
+        "utcStart": "2001-09-11 20:30:00",
+        "duration": 1800.4,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_203000_Japan/NHK_20010911_203000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_203000_Japan"
+      },
+      {
+        "id": "NHK_20010911_210000_Japan",
+        "title": "Japan : NHK : September 12, 2001 6:00am-6:30am JST",
+        "start": "2001-09-11 17:00:00",
+        "utcStart": "2001-09-11 21:00:00",
+        "duration": 1800.36,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_210000_Japan/NHK_20010911_210000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_210000_Japan"
+      },
+      {
+        "id": "NHK_20010911_213000_Japan",
+        "title": "Japan : NHK : September 12, 2001 6:30am-7:00am JST",
+        "start": "2001-09-11 17:30:00",
+        "utcStart": "2001-09-11 21:30:00",
+        "duration": 1800.43,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_213000_Japan/NHK_20010911_213000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_213000_Japan"
+      },
+      {
+        "id": "NHK_20010911_220000_Japan",
+        "title": "Japan : NHK : September 12, 2001 7:00am-7:30am JST",
+        "start": "2001-09-11 18:00:00",
+        "utcStart": "2001-09-11 22:00:00",
+        "duration": 1800.5,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_220000_Japan/NHK_20010911_220000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_220000_Japan"
+      },
+      {
+        "id": "NHK_20010911_223000_Japan",
+        "title": "Japan : NHK : September 12, 2001 7:30am-8:00am JST",
+        "start": "2001-09-11 18:30:00",
+        "utcStart": "2001-09-11 22:30:00",
+        "duration": 1800.43,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_223000_Japan/NHK_20010911_223000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_223000_Japan"
+      },
+      {
+        "id": "NHK_20010911_230000_Japan",
+        "title": "Japan : NHK : September 12, 2001 8:00am-8:30am JST",
+        "start": "2001-09-11 19:00:00",
+        "utcStart": "2001-09-11 23:00:00",
+        "duration": 1800.6,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_230000_Japan/NHK_20010911_230000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_230000_Japan"
+      },
+      {
+        "id": "NHK_20010911_233000_Japan",
+        "title": "Japan : NHK : September 12, 2001 8:30am-9:00am JST",
+        "start": "2001-09-11 19:30:00",
+        "utcStart": "2001-09-11 23:30:00",
+        "duration": 1800.4,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010911_233000_Japan/NHK_20010911_233000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010911_233000_Japan"
+      },
+      {
+        "id": "NHK_20010912_000000_Japan",
+        "title": "Japan : NHK : September 12, 2001 9:00am-9:30am JST",
+        "start": "2001-09-11 20:00:00",
+        "utcStart": "2001-09-12 00:00:00",
+        "duration": 1800.06,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010912_000000_Japan/NHK_20010912_000000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010912_000000_Japan"
+      },
+      {
+        "id": "NHK_20010912_003000_Japan",
+        "title": "Japan : NHK : September 12, 2001 9:30am-10:00am JST",
+        "start": "2001-09-11 20:30:00",
+        "utcStart": "2001-09-12 00:30:00",
+        "duration": 1800.56,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010912_003000_Japan/NHK_20010912_003000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010912_003000_Japan"
+      },
+      {
+        "id": "NHK_20010912_010000_Japan",
+        "title": "Japan : NHK : September 12, 2001 10:00am-10:30am JST",
+        "start": "2001-09-11 21:00:00",
+        "utcStart": "2001-09-12 01:00:00",
+        "duration": 1801.0,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010912_010000_Japan/NHK_20010912_010000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010912_010000_Japan"
+      },
+      {
+        "id": "NHK_20010912_013000_Japan",
+        "title": "Japan : NHK : September 12, 2001 10:30am-11:00am JST",
+        "start": "2001-09-11 21:30:00",
+        "utcStart": "2001-09-12 01:30:00",
+        "duration": 1800.1,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010912_013000_Japan/NHK_20010912_013000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010912_013000_Japan"
+      },
+      {
+        "id": "NHK_20010912_020000_Japan",
+        "title": "Japan : NHK : September 12, 2001 11:00am-11:30am JST",
+        "start": "2001-09-11 22:00:00",
+        "utcStart": "2001-09-12 02:00:00",
+        "duration": 1800.43,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010912_020000_Japan/NHK_20010912_020000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010912_020000_Japan"
+      },
+      {
+        "id": "NHK_20010912_023000_Japan",
+        "title": "Japan : NHK : September 12, 2001 11:30am-12:00pm JST",
+        "start": "2001-09-11 22:30:00",
+        "utcStart": "2001-09-12 02:30:00",
+        "duration": 1800.43,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010912_023000_Japan/NHK_20010912_023000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010912_023000_Japan"
+      },
+      {
+        "id": "NHK_20010912_030000_Japan",
+        "title": "Japan : NHK : September 12, 2001 12:00pm-12:30pm JST",
+        "start": "2001-09-11 23:00:00",
+        "utcStart": "2001-09-12 03:00:00",
+        "duration": 1800.33,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010912_030000_Japan/NHK_20010912_030000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010912_030000_Japan"
+      },
+      {
+        "id": "NHK_20010912_033000_Japan",
+        "title": "Japan : NHK : September 12, 2001 12:30pm-1:00pm JST",
+        "start": "2001-09-11 23:30:00",
+        "utcStart": "2001-09-12 03:30:00",
+        "duration": 1800.0,
+        "offset": 0,
+        "url": "https://archive.org/download/NHK_20010912_033000_Japan/NHK_20010912_033000_Japan.mp4",
+        "source": "https://archive.org/details/NHK_20010912_033000_Japan"
+      }
+    ]
+  },
+  {
+    "id": "cctv",
+    "country": "China",
+    "name": "CCTV archive",
+    "language": "Chinese",
+    "recordings": [
+      {
+        "id": "CCTV3_20010911_123000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 11, 2001 8:30pm-9:00pm CST",
+        "start": "2001-09-11 08:30:00",
+        "utcStart": "2001-09-11 12:30:00",
+        "duration": 1800.0,
+        "offset": 1080.0,
+        "url": "https://archive.org/download/CCTV3_20010911_123000_China_Central_TV/CCTV3_20010911_123000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_123000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_130000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 11, 2001 9:00pm-9:30pm CST",
+        "start": "2001-09-11 09:00:00",
+        "utcStart": "2001-09-11 13:00:00",
+        "duration": 1800.46,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_130000_China_Central_TV/CCTV3_20010911_130000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_130000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_133000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 11, 2001 9:30pm-10:00pm CST",
+        "start": "2001-09-11 09:30:00",
+        "utcStart": "2001-09-11 13:30:00",
+        "duration": 1800.5,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_133000_China_Central_TV/CCTV3_20010911_133000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_133000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_140000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 11, 2001 10:00pm-10:30pm CST",
+        "start": "2001-09-11 10:00:00",
+        "utcStart": "2001-09-11 14:00:00",
+        "duration": 1800.63,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_140000_China_Central_TV/CCTV3_20010911_140000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_140000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_143000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 11, 2001 10:30pm-11:00pm CST",
+        "start": "2001-09-11 10:30:00",
+        "utcStart": "2001-09-11 14:30:00",
+        "duration": 1800.53,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_143000_China_Central_TV/CCTV3_20010911_143000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_143000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_150000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 11, 2001 11:00pm-11:30pm CST",
+        "start": "2001-09-11 11:00:00",
+        "utcStart": "2001-09-11 15:00:00",
+        "duration": 1800.6,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_150000_China_Central_TV/CCTV3_20010911_150000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_150000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_153000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 11, 2001 11:30pm-12:00am CST",
+        "start": "2001-09-11 11:30:00",
+        "utcStart": "2001-09-11 15:30:00",
+        "duration": 1800.66,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_153000_China_Central_TV/CCTV3_20010911_153000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_153000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_160000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 12:00am-12:30am CST",
+        "start": "2001-09-11 12:00:00",
+        "utcStart": "2001-09-11 16:00:00",
+        "duration": 1800.0,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_160000_China_Central_TV/CCTV3_20010911_160000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_160000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_163000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 12:30am-1:00am CST",
+        "start": "2001-09-11 12:30:00",
+        "utcStart": "2001-09-11 16:30:00",
+        "duration": 1800.5,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_163000_China_Central_TV/CCTV3_20010911_163000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_163000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_170000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 1:00am-1:30am CST",
+        "start": "2001-09-11 13:00:00",
+        "utcStart": "2001-09-11 17:00:00",
+        "duration": 1800.53,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_170000_China_Central_TV/CCTV3_20010911_170000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_170000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_173000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 1:30am-2:00am CST",
+        "start": "2001-09-11 13:30:00",
+        "utcStart": "2001-09-11 17:30:00",
+        "duration": 1800.53,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_173000_China_Central_TV/CCTV3_20010911_173000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_173000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_180000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 2:00am-2:30am CST",
+        "start": "2001-09-11 14:00:00",
+        "utcStart": "2001-09-11 18:00:00",
+        "duration": 1800.43,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_180000_China_Central_TV/CCTV3_20010911_180000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_180000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_183000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 2:30am-3:00am CST",
+        "start": "2001-09-11 14:30:00",
+        "utcStart": "2001-09-11 18:30:00",
+        "duration": 1800.4,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_183000_China_Central_TV/CCTV3_20010911_183000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_183000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_190000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 3:00am-3:30am CST",
+        "start": "2001-09-11 15:00:00",
+        "utcStart": "2001-09-11 19:00:00",
+        "duration": 1800.53,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_190000_China_Central_TV/CCTV3_20010911_190000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_190000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_193000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 3:30am-4:00am CST",
+        "start": "2001-09-11 15:30:00",
+        "utcStart": "2001-09-11 19:30:00",
+        "duration": 1800.12,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_193000_China_Central_TV/CCTV3_20010911_193000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_193000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_200000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 4:00am-4:30am CST",
+        "start": "2001-09-11 16:00:00",
+        "utcStart": "2001-09-11 20:00:00",
+        "duration": 1800.5,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_200000_China_Central_TV/CCTV3_20010911_200000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_200000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_203000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 4:30am-5:00am CST",
+        "start": "2001-09-11 16:30:00",
+        "utcStart": "2001-09-11 20:30:00",
+        "duration": 1805.43,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_203000_China_Central_TV/CCTV3_20010911_203000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_203000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_210000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 5:00am-5:29am CST",
+        "start": "2001-09-11 17:00:00",
+        "utcStart": "2001-09-11 21:00:00",
+        "duration": 1797.76,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_210000_China_Central_TV/CCTV3_20010911_210000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_210000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_213000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 5:30am-5:59am CST",
+        "start": "2001-09-11 17:30:00",
+        "utcStart": "2001-09-11 21:30:00",
+        "duration": 1797.86,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_213000_China_Central_TV/CCTV3_20010911_213000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_213000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_220000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 6:00am-6:30am CST",
+        "start": "2001-09-11 18:00:00",
+        "utcStart": "2001-09-11 22:00:00",
+        "duration": 1800.53,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_220000_China_Central_TV/CCTV3_20010911_220000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_220000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_223000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 6:30am-7:00am CST",
+        "start": "2001-09-11 18:30:00",
+        "utcStart": "2001-09-11 22:30:00",
+        "duration": 1800.43,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_223000_China_Central_TV/CCTV3_20010911_223000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_223000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_230000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 7:00am-7:30am CST",
+        "start": "2001-09-11 19:00:00",
+        "utcStart": "2001-09-11 23:00:00",
+        "duration": 1800.06,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_230000_China_Central_TV/CCTV3_20010911_230000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_230000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010911_233000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 7:30am-8:00am CST",
+        "start": "2001-09-11 19:30:00",
+        "utcStart": "2001-09-11 23:30:00",
+        "duration": 1800.56,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010911_233000_China_Central_TV/CCTV3_20010911_233000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010911_233000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010912_000000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 8:00am-8:30am CST",
+        "start": "2001-09-11 20:00:00",
+        "utcStart": "2001-09-12 00:00:00",
+        "duration": 1800.56,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010912_000000_China_Central_TV/CCTV3_20010912_000000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010912_000000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010912_003000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 8:30am-9:00am CST",
+        "start": "2001-09-11 20:30:00",
+        "utcStart": "2001-09-12 00:30:00",
+        "duration": 1800.56,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010912_003000_China_Central_TV/CCTV3_20010912_003000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010912_003000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010912_010000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 9:00am-9:30am CST",
+        "start": "2001-09-11 21:00:00",
+        "utcStart": "2001-09-12 01:00:00",
+        "duration": 1800.0,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010912_010000_China_Central_TV/CCTV3_20010912_010000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010912_010000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010912_013000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 9:30am-10:00am CST",
+        "start": "2001-09-11 21:30:00",
+        "utcStart": "2001-09-12 01:30:00",
+        "duration": 1800.56,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010912_013000_China_Central_TV/CCTV3_20010912_013000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010912_013000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010912_020000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 10:00am-10:30am CST",
+        "start": "2001-09-11 22:00:00",
+        "utcStart": "2001-09-12 02:00:00",
+        "duration": 1800.0,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010912_020000_China_Central_TV/CCTV3_20010912_020000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010912_020000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010912_023000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 10:30am-11:00am CST",
+        "start": "2001-09-11 22:30:00",
+        "utcStart": "2001-09-12 02:30:00",
+        "duration": 1800.5,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010912_023000_China_Central_TV/CCTV3_20010912_023000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010912_023000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010912_030000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 11:00am-11:30am CST",
+        "start": "2001-09-11 23:00:00",
+        "utcStart": "2001-09-12 03:00:00",
+        "duration": 1800.5,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010912_030000_China_Central_TV/CCTV3_20010912_030000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010912_030000_China_Central_TV"
+      },
+      {
+        "id": "CCTV3_20010912_033000_China_Central_TV",
+        "title": "China Central TV : CCTV3 : September 12, 2001 11:30am-12:00pm CST",
+        "start": "2001-09-11 23:30:00",
+        "utcStart": "2001-09-12 03:30:00",
+        "duration": 1800.0,
+        "offset": 0,
+        "url": "https://archive.org/download/CCTV3_20010912_033000_China_Central_TV/CCTV3_20010912_033000_China_Central_TV.mp4",
+        "source": "https://archive.org/details/CCTV3_20010912_033000_China_Central_TV"
+      }
+    ]
+  },
+  {
+    "id": "ntv",
+    "country": "Russia",
+    "name": "NTV",
+    "language": "Russian",
+    "recordings": [
+      {
+        "id": "NTV_20010911_123500_Marielena",
+        "title": "Marielena : NTV : September 11, 2001 4:35pm-5:20pm MSD",
+        "start": "2001-09-11 08:35:00",
+        "utcStart": "2001-09-11 12:35:00",
+        "duration": 2701.5,
+        "offset": 780.0,
+        "url": "https://archive.org/download/NTV_20010911_123500_Marielena/NTV_20010911_123500_Marielena.mp4",
+        "source": "https://archive.org/details/NTV_20010911_123500_Marielena"
+      },
+      {
+        "id": "NTV_20010911_132000_Dog-shou_Ya_i_moya_cobaka",
+        "title": "Dog-shou: Ya i moya cobaka : NTV : September 11, 2001 5:20pm-5:49pm MSD",
+        "start": "2001-09-11 09:20:00",
+        "utcStart": "2001-09-11 13:20:00",
+        "duration": 1799.46,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_132000_Dog-shou_Ya_i_moya_cobaka/NTV_20010911_132000_Dog-shou_Ya_i_moya_cobaka.mp4",
+        "source": "https://archive.org/details/NTV_20010911_132000_Dog-shou_Ya_i_moya_cobaka"
+      },
+      {
+        "id": "NTV_20010911_135000_Chelovek_v_prohodnom_dvore",
+        "title": "Chelovek v prohodnom dvore : NTV : September 11, 2001 5:50pm-7:00pm MSD",
+        "start": "2001-09-11 09:50:00",
+        "utcStart": "2001-09-11 13:50:00",
+        "duration": 4201.83,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_135000_Chelovek_v_prohodnom_dvore/NTV_20010911_135000_Chelovek_v_prohodnom_dvore.mp4",
+        "source": "https://archive.org/details/NTV_20010911_135000_Chelovek_v_prohodnom_dvore"
+      },
+      {
+        "id": "NTV_20010911_150000_Segodnya",
+        "title": "Segodnya : NTV : September 11, 2001 7:00pm-7:40pm MSD",
+        "start": "2001-09-11 11:00:00",
+        "utcStart": "2001-09-11 15:00:00",
+        "duration": 2399.83,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_150000_Segodnya/NTV_20010911_150000_Segodnya.mp4",
+        "source": "https://archive.org/details/NTV_20010911_150000_Segodnya"
+      },
+      {
+        "id": "NTV_20010911_154000_Odin_den",
+        "title": "Odin den' : NTV : September 11, 2001 7:40pm-8:15pm MSD",
+        "start": "2001-09-11 11:40:00",
+        "utcStart": "2001-09-11 15:40:00",
+        "duration": 2099.96,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_154000_Odin_den/NTV_20010911_154000_Odin_den.mp4",
+        "source": "https://archive.org/details/NTV_20010911_154000_Odin_den"
+      },
+      {
+        "id": "NTV_20010911_161500_Syishchik_i_prokuror",
+        "title": "Syishchik i prokuror : NTV : September 11, 2001 8:15pm-9:10pm MSD",
+        "start": "2001-09-11 12:15:00",
+        "utcStart": "2001-09-11 16:15:00",
+        "duration": 3302.66,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_161500_Syishchik_i_prokuror/NTV_20010911_161500_Syishchik_i_prokuror.mp4",
+        "source": "https://archive.org/details/NTV_20010911_161500_Syishchik_i_prokuror"
+      },
+      {
+        "id": "NTV_20010911_171000_Bolnitca_Vseh_Svyatiyih",
+        "title": "Bol'nitca Vseh Svyatiyih : NTV : September 11, 2001 9:10pm-10:00pm MSD",
+        "start": "2001-09-11 13:10:00",
+        "utcStart": "2001-09-11 17:10:00",
+        "duration": 2999.79,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_171000_Bolnitca_Vseh_Svyatiyih/NTV_20010911_171000_Bolnitca_Vseh_Svyatiyih.mp4",
+        "source": "https://archive.org/details/NTV_20010911_171000_Bolnitca_Vseh_Svyatiyih"
+      },
+      {
+        "id": "NTV_20010911_180000_Segodnya",
+        "title": "Segodnya : NTV : September 11, 2001 10:00pm-10:50pm MSD",
+        "start": "2001-09-11 14:00:00",
+        "utcStart": "2001-09-11 18:00:00",
+        "duration": 3002.3,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_180000_Segodnya/NTV_20010911_180000_Segodnya.mp4",
+        "source": "https://archive.org/details/NTV_20010911_180000_Segodnya"
+      },
+      {
+        "id": "NTV_20010911_185000_Katastrofyi_nedeli",
+        "title": "Katastrofyi nedeli : NTV : September 11, 2001 10:50pm-11:19pm MSD",
+        "start": "2001-09-11 14:50:00",
+        "utcStart": "2001-09-11 18:50:00",
+        "duration": 1797.89,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_185000_Katastrofyi_nedeli/NTV_20010911_185000_Katastrofyi_nedeli.mp4",
+        "source": "https://archive.org/details/NTV_20010911_185000_Katastrofyi_nedeli"
+      },
+      {
+        "id": "NTV_20010911_192000_Itogo",
+        "title": "Itogo : NTV : September 11, 2001 11:20pm-11:40pm MSD",
+        "start": "2001-09-11 15:20:00",
+        "utcStart": "2001-09-11 19:20:00",
+        "duration": 1201.16,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_192000_Itogo/NTV_20010911_192000_Itogo.mp4",
+        "source": "https://archive.org/details/NTV_20010911_192000_Itogo"
+      },
+      {
+        "id": "NTV_20010911_194000_Seychas",
+        "title": "Seychas : NTV : September 11, 2001 11:40pm-12:15am MSD",
+        "start": "2001-09-11 15:40:00",
+        "utcStart": "2001-09-11 19:40:00",
+        "duration": 2099.63,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_194000_Seychas/NTV_20010911_194000_Seychas.mp4",
+        "source": "https://archive.org/details/NTV_20010911_194000_Seychas"
+      },
+      {
+        "id": "NTV_20010911_201500_Tihie_vodyi",
+        "title": "Tihie vodyi : NTV : September 12, 2001 12:15am-1:05am MSD",
+        "start": "2001-09-11 16:15:00",
+        "utcStart": "2001-09-11 20:15:00",
+        "duration": 3000.9,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_201500_Tihie_vodyi/NTV_20010911_201500_Tihie_vodyi.mp4",
+        "source": "https://archive.org/details/NTV_20010911_201500_Tihie_vodyi"
+      },
+      {
+        "id": "NTV_20010911_210500_Marielena",
+        "title": "Marielena : NTV : September 12, 2001 1:05am-1:55am MSD",
+        "start": "2001-09-11 17:05:00",
+        "utcStart": "2001-09-11 21:05:00",
+        "duration": 3003.83,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_210500_Marielena/NTV_20010911_210500_Marielena.mp4",
+        "source": "https://archive.org/details/NTV_20010911_210500_Marielena"
+      },
+      {
+        "id": "NTV_20010911_215500_Rossiyskaya_imperiya",
+        "title": "Rossiyskaya imperiya : NTV : September 12, 2001 1:55am-3:00am MSD",
+        "start": "2001-09-11 17:55:00",
+        "utcStart": "2001-09-11 21:55:00",
+        "duration": 3900.93,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_215500_Rossiyskaya_imperiya/NTV_20010911_215500_Rossiyskaya_imperiya.mp4",
+        "source": "https://archive.org/details/NTV_20010911_215500_Rossiyskaya_imperiya"
+      },
+      {
+        "id": "NTV_20010911_230000_Segodnya_v_amerike",
+        "title": "Segodnya v amerike : NTV : September 12, 2001 3:00am-3:44am MSD",
+        "start": "2001-09-11 19:00:00",
+        "utcStart": "2001-09-11 23:00:00",
+        "duration": 2696.86,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_230000_Segodnya_v_amerike/NTV_20010911_230000_Segodnya_v_amerike.mp4",
+        "source": "https://archive.org/details/NTV_20010911_230000_Segodnya_v_amerike"
+      },
+      {
+        "id": "NTV_20010911_234500_Chelovek_v_prohodnom_dvore",
+        "title": "Chelovek v prohodnom dvore : NTV : September 12, 2001 3:45am-5:00am MSD",
+        "start": "2001-09-11 19:45:00",
+        "utcStart": "2001-09-11 23:45:00",
+        "duration": 4499.19,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010911_234500_Chelovek_v_prohodnom_dvore/NTV_20010911_234500_Chelovek_v_prohodnom_dvore.mp4",
+        "source": "https://archive.org/details/NTV_20010911_234500_Chelovek_v_prohodnom_dvore"
+      },
+      {
+        "id": "NTV_20010912_010000_Seychas",
+        "title": "Seychas : NTV : September 12, 2001 5:00am-5:45am MSD",
+        "start": "2001-09-11 21:00:00",
+        "utcStart": "2001-09-12 01:00:00",
+        "duration": 2702.3,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010912_010000_Seychas/NTV_20010912_010000_Seychas.mp4",
+        "source": "https://archive.org/details/NTV_20010912_010000_Seychas"
+      },
+      {
+        "id": "NTV_20010912_014500_Tushite_svet",
+        "title": "Tushite svet : NTV : September 12, 2001 5:45am-6:00am MSD",
+        "start": "2001-09-11 21:45:00",
+        "utcStart": "2001-09-12 01:45:00",
+        "duration": 899.93,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010912_014500_Tushite_svet/NTV_20010912_014500_Tushite_svet.mp4",
+        "source": "https://archive.org/details/NTV_20010912_014500_Tushite_svet"
+      },
+      {
+        "id": "NTV_20010912_020000_Syishchik_i_prokuror",
+        "title": "Syishchik i prokuror : NTV : September 12, 2001 6:00am-6:59am MSD",
+        "start": "2001-09-11 22:00:00",
+        "utcStart": "2001-09-12 02:00:00",
+        "duration": 3599.09,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010912_020000_Syishchik_i_prokuror/NTV_20010912_020000_Syishchik_i_prokuror.mp4",
+        "source": "https://archive.org/details/NTV_20010912_020000_Syishchik_i_prokuror"
+      },
+      {
+        "id": "NTV_20010912_030000_Jenshchinyi",
+        "title": "Jenshchinyi : NTV : September 12, 2001 7:00am-8:55am MSD",
+        "start": "2001-09-11 23:00:00",
+        "utcStart": "2001-09-12 03:00:00",
+        "duration": 3600.0,
+        "offset": 0,
+        "url": "https://archive.org/download/NTV_20010912_030000_Jenshchinyi/NTV_20010912_030000_Jenshchinyi.mp4",
+        "source": "https://archive.org/details/NTV_20010912_030000_Jenshchinyi"
+      }
+    ]
+  }
+]
